@@ -1,3 +1,4 @@
+--funny
 local Library = {}
 
 local NeverloseVersion = "v1.1A."
